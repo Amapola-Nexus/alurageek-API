@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/SofiDevO/alurageek-API.git"
+    "url": "git@github.com:Amapola-Nexus/alurageek-API.git"
   },
   "keywords": [
     "alura",
